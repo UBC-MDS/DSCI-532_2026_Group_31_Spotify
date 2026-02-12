@@ -1,5 +1,5 @@
 # Group 31
 
-### Spotify Dashboard
+### Chartify: Spotify Dashboard Analytics
 
-[Dashboard Name] is a data analytics dashboard that leverages Spotify's song features dataset to uncover patterns and characteristics of successful songs. Built for music producers and A&R professionals, it provides actionable insights on tempo, energy, danceability, and other key metrics that correlate with chart performance and cross-platform popularity, helping stakeholders make data-driven decisions in hit song production.
+Chartify is a data analytics dashboard that leverages Spotify's song features dataset to uncover patterns and characteristics of successful songs. Built for music producers and A&R professionals, it provides actionable insights on tempo, energy, danceability, and other key metrics that correlate with chart performance and cross-platform popularity, helping stakeholders make data-driven decisions in hit song production.
