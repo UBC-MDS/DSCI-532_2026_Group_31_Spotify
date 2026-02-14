@@ -9,6 +9,10 @@ dependencies:
   - matplotlib=3.7
   - jupyter=1.0
   - dash>=2.16
+  - altair=6.0
+  - vegafusion=2.0
+  - pyarrow=23.0
   - pip
   - pip:
       - plotly>=5.18
+      - kagglehub==1.0
