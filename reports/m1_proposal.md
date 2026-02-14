@@ -36,6 +36,13 @@ When Jane uses Chartify, she can see how different song elements and audio featu
 
 ## Section 4: Exploratory Data Analysis
 
+To address User Story 2 (Song Elements vs Popularity), we analyzed the relationship between a song's Danceability and its engagement (measured by Likes and Views) to see if specific musical elements correlated with song popularity.
+
+**Analysis**: The summary table in [EDA Notebook](../notebooks/eda_analysis.ipynb) reveals that both Views and Likes increases as the song's danceability level increases, specifically songs in the high danceability range have an average of over 860,000 likes and over 121 million views. The bar chart focuses on Average Likes as this metric represents active listener engagement and shows that High Danceability songs outperform Low Danceability songs by 133%.
+
+<img src="../img/danceability_eda.png" width="50%">
+
+**Reflection**: These findings support the music producer by proving that Danceability is a meaningful feature to use. By allowing the user to filter by musical elements, it can successfully support the music producer in guiding their songwriting process.
 
 ## Section 5: App Sketch & Description
 
